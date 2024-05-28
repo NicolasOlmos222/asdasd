@@ -16,7 +16,9 @@
 
 <script setup>
     import { useCounterStore } from "..//stores/counter";
-
+zxccxzxczxzc
+zx
+Cszcsa
     const useCounter = useCounterStore();
 </script>
 
